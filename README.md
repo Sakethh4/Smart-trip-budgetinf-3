@@ -1,1 +1,3 @@
-# Smart-trip-budgetinf-3
+# Welcome to your Lovable project
+
+TODO: Document your project here

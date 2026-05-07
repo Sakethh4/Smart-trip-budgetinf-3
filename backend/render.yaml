@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: explore-ease-backend
+    env: node
+    buildCommand: ""
+    startCommand: node server.js
+    envVars:
+      - key: PORT
+        value: 3001
+      - key: JWT_SECRET
+        generateValue: true

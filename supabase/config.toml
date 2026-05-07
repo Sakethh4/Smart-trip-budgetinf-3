@@ -1,0 +1,7 @@
+project_id = "qapdpfahcvdrfwkbyacx"
+
+[functions.process-recurring-expenses]
+verify_jwt = false
+
+[functions.check-budget-alert]
+verify_jwt = false
